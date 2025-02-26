@@ -14,4 +14,4 @@ Furor Iram
 1. Bolo de morango
 2. Bolo mole
 
-var string: String
+var string: Int
